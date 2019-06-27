@@ -1,5 +1,7 @@
 # GraphQL talk
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/d-asensio/graphql-talk.svg)](https://greenkeeper.io/)
+
 ## Getting Started
 
 1. Download the boilerplate
